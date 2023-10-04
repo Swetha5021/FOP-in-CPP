@@ -1,5 +1,7 @@
 /*Remove duplicate elements
-Sherlock and John were investigating a murder and the murderer was Ms.Irene Adler. She wanted Sherlock to find her by solving the puzzles given by her and the tasks given by her. Sherlock was able to solve all but one. The last task was to write a C++ program to remove the duplicate elements from an array. Can you help Sherlock?
+Sherlock and John were investigating a murder and the murderer was Ms.Irene Adler. She wanted Sherlock to find her by solving the puzzles given by her and
+the tasks given by her. Sherlock was able to solve all but one. The last task was to write a C++ program to remove the duplicate elements from an array. Can
+you help Sherlock?
 INPUT FORMAT:
 Input consists of 1 integer and 1 array.
 The first integer corresponds to the size of the array.
