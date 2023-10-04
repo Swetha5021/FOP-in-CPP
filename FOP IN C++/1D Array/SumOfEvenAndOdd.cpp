@@ -31,6 +31,7 @@ Output (stdout)
 The sum of the even numbers in the array is 16
 The sum of the odd numbers in the array is 2                   */
 
+
 #include <iostream>
 using namespace std;
 
@@ -51,3 +52,4 @@ int main()
   cout<<"The sum of the odd numbers in the array is "<<y;
     return 0;
 }
+
