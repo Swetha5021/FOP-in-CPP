@@ -46,3 +46,5 @@ int main()
   }
   cout<<"There are "<<k-2<<" distinct element in the array.";
 }
+
+
