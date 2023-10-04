@@ -45,3 +45,5 @@ int main()
     int &max = *max_element(a,a+n);
   cout<<"The range of the array is "<<max-min;
 }
+
+
