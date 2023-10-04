@@ -1,5 +1,8 @@
 /*Same or Not
-The Modern World Cinderella, was happy to meet The Prince Charming in the ball room and she danced with him happily. While she was dancing , Prince wanted to check whether Cinderella is the perfect suit for him. He asked her a question to check her knowledge on Arrays. Can you help Cinderella to write a C++ program to find whether the two arrays are the same or not. (Two arrays are said to be the same if the sum of both the arrays is the same and the size of arrays is the same).
+The Modern World Cinderella, was happy to meet The Prince Charming in the ball room and she danced with him happily. While she was dancing , Prince wanted 
+to check whether Cinderella is the perfect suit for him. He asked her a question to check her knowledge on Arrays. Can you help Cinderella to write a C++ 
+program to find whether the two arrays are the same or not. (Two arrays are said to be the same if the sum of both the arrays is the same and the size of 
+arrays is the same).
 INPUT FORMAT:
 Input consists of 2 integers and 2 arrays.
 Integers correspond to the size of arrays.
