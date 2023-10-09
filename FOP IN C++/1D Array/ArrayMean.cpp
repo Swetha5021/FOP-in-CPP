@@ -1,11 +1,13 @@
 /*Array mean
 Write a program to find the mean of the elements in an array.
+
 INPUT & OUTPUT FORMAT:
 Input consists of n+1 integers where n corresponds to the number of elements in the array.
 The first integer corresponds to n and the next n integers correspond to the elements in the array.
 Output consists of an integer value which corresponds to the mean of the array.
 Assume that the maximum number of elements in the array is 20.
 Refer to the sample input and output for formatting specifications.
+
 SAMPLE INPUT & OUTPUT:
 Enter the number of elements in the array
 5
