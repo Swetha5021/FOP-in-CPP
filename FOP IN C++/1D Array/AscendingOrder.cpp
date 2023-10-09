@@ -1,8 +1,10 @@
 /*Ascending order
 Klaus Mikaelson and his daughter Hope were arguing about who is the smartest person in the family. Klaus who is a world known Computer Engineer, asked Hope who has not yet completed her college to write a C++ program to sort the given array in ascending order. Can you help Hope?
+
 INPUT FORMAT:
 Input consists of 1 integer and 1 array.
 Integer corresponds to the size of the array.
+
 SAMPLE INPUT:
 5
 54
@@ -10,6 +12,7 @@ SAMPLE INPUT:
 25
 14
 74
+
 SAMPLE OUTPUT:
 Sorted array is:
 14
